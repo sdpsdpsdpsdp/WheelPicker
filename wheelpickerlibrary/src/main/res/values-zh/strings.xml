@@ -1,0 +1,7 @@
+<resources>
+    <string name="Year">年</string>
+    <string name="Month">月</string>
+    <string name="Day">日</string>
+    <string name="Cancel">取消</string>
+    <string name="Confirm">确认</string>
+</resources>

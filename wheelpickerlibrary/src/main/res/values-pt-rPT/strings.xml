@@ -1,0 +1,7 @@
+<resources>
+    <string name="Year"></string>
+    <string name="Month"></string>
+    <string name="Day"></string>
+    <string name="Cancel">Cancelar</string>
+    <string name="Confirm">Ok</string>
+</resources>
